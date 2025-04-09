@@ -1,2 +1,2 @@
 # Analytics
-Portfolio of privately created analysis dashboards without proprietary restrictions 
+Portfolio showcase of privately created analysis dashboards, eBooks & sundry works without proprietary restrictions 
