@@ -56,3 +56,41 @@ to help **IMPROVE** Procurement team performance.*
 **Predictive Modeling and Hypothesis Testing using Car Sales Dataset.**
 ![image](CarSales Performance Project_DSHB.jpg)
 *Includes Employee, Location, Customer Gender, Age Range, Car Make, Car Model etc. Performance Analysis to **IMPROVE** company Sales*
+
+
+## CONTACT DETAILS
+*Feel free to connect so we can collaborate to deliver value!*
+<table>
+<tbody>
+<tr>
+<td>􊷗􊷘􊷙􊷚􊷛􊷝􊷜</td>
+<td><a
+href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+</tr>
+<tr>
+<td>􊶭􊶮</td>
+<td>(234) 816-763-7212</td>
+</tr>
+<tr>
+<td>􊵗􊵙􊵘</td>
+<td>PH, Nigeria</td>
+</tr>
+<tr>
+<td>􈄥􎆻</td>
+<td><a
+href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
+CV</a></td>
+</tr>
+<tr>
+<td>􈈏</td>
+<td><a href="https://linkedin.com/in/etukanietie">The things I do daily
+on LinkedIn</a></td>
+</tr>
+<tr>
+<td>􊸼􊸽􊸾􊹂􊸿􊹃􊹄􊹀􊹁</td>
+<td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials
+on YouTube</a></td>
+</tr>
+</tbody>
+</table>
+
