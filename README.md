@@ -25,10 +25,8 @@ I offer targeted training programs to develop crucial skills from beginner throu
 *A glimpse of some of the projects I've been working on and authored material.*
 
 **Predictive Modeling and Hypothesis Testing using Oil Production Dataset.**
-![image](1 OilField Performance Project_DSHB.jpg)
-
+![image](OilField Performance Project_DSHB.jpg)
 *Insert brief details here*
-
 
 **Predictive Modeling and Hypothesis Testing using Logistics Dataset.**
 ![image](SmartLg_Logistics Delay Project_DSHB.jpg)
