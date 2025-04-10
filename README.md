@@ -65,31 +65,24 @@ to help **IMPROVE** Procurement team performance.*
 <tr>
 <td>􊷗􊷘􊷙􊷚􊷛􊷝􊷜</td>
 <td><a
-href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+href="mailto:yinka.banjo@yahoo.co.uk">yinka.banjo@yahoo.co.uk</a></td>
+</tr>
+<tr>
+<td>􊷗􊷘􊷙􊷚􊷛􊷝􊷜</td>
+<td><a
+href="mailto:yinka.banjo@stratedelta.com">yinka.banjo@stratedelta.com</a></td>
 </tr>
 <tr>
 <td>􊶭􊶮</td>
-<td>(234) 816-763-7212</td>
+<td>(234) 803-704-5561</td>
 </tr>
 <tr>
-<td>􊵗􊵙􊵘</td>
-<td>PH, Nigeria</td>
+<td>􊶭􊶮</td>
+<td>(27) 606-888-284</td>
 </tr>
 <tr>
-<td>􈄥􎆻</td>
-<td><a
-href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my
-CV</a></td>
-</tr>
-<tr>
-<td>􈈏</td>
-<td><a href="https://linkedin.com/in/etukanietie">The things I do daily
-on LinkedIn</a></td>
-</tr>
-<tr>
-<td>􊸼􊸽􊸾􊹂􊸿􊹃􊹄􊹀􊹁</td>
-<td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials
-on YouTube</a></td>
+<td>􊶭􊶮</td>
+<td>(44) 739-727-2358</td>
 </tr>
 </tbody>
 </table>
