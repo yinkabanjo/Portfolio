@@ -16,12 +16,9 @@ Achieve exceptional business performance through a smarter supply chain. I help 
 
 **- ✅ Organisation Staff Training & Development.**
 I offer targeted training programs to develop crucial skills from beginner through advanced levels in:
-
-*Comprehensive Supply Chain Management: Including planning, sourcing, manufacturing, logistics, warehousing, materials management & SCM technologies.*
-
-*Data Analysis & Visualization: Turning data into actionable insights.*
-
-*Data-Driven Decision-Making: Applying data effectively to drive business results.*
+-*Comprehensive Supply Chain Management: Including planning, sourcing, manufacturing, logistics, warehousing, materials management & SCM technologies.*
+-*Data Analysis & Visualization: Turning data into actionable insights.*
+-*Data-Driven Decision-Making: Applying data effectively to drive business results.*
 
 ## MY PORTFOLIO
 
@@ -29,14 +26,14 @@ I offer targeted training programs to develop crucial skills from beginner throu
 
 **Predictive Modeling and Hypothesis Testing using Oil Production Dataset.**
 
-![image](1 OilField Performance Project_DSHB.jpg)
+[image](OilField Performance Project_DSHB.jpg)
 
 *Insert brief details here*
 
 
 **Predictive Modeling and Hypothesis Testing using Logistics Dataset.**
 
-![image](2 SmartLg_Logistics Delay Project_DSHB.jpg)
+[image](SmartLg_Logistics Delay Project_DSHB.jpg)
 
 *On April 15, 1912, during her maiden voyage, the widely considered
 “unsinkable” RMS Titanic sank after colliding with an iceberg*
