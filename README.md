@@ -29,7 +29,7 @@ I offer targeted training programs to develop crucial skills from beginner throu
 
 **Predictive Modeling and Hypothesis Testing using Oil Production Dataset.**
 
-![image](OilField Performance Project_DSHB.jpg)
+![image]([OilField Performance Project_DSHB.jpg](https://github.com/yinkabanjo/Portfolio/blob/main/OilField%20Performance%20Project_DSHB.jpg))
 
 *Insert brief details here*
 
