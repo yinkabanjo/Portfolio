@@ -24,12 +24,24 @@ I offer targeted training programs to develop crucial skills from beginner throu
 
 *A glimpse of some of the projects I've been working on and authored material.*
 
+**PROCUREMENT MINI-LEARNING SERIES: Mastering Procurement KPIs.**
+![image](Mastering Procurement KPIs_eBook.jpg)
+*Includes 5 Most commonly used KPIs, 15 bonus KPIs, —their definitions, explanations, calculation components and importance. 
+Strategies for effective KPI management, how to choose the right KPIs, common pitfalls, & Frequently Asked Questions (FAQs).
+to help **IMPROVE** Procurement team performance*
+
 **Predictive Modeling and Hypothesis Testing using Oil Production Dataset.**
 ![image](OilField Performance Project_DSHB.jpg)
-*Insert brief details here*
+*Includes Location, Personnel & Production Performance Analysis to **IMPROVE** Production*
 
 **Predictive Modeling and Hypothesis Testing using Logistics Dataset.**
 ![image](SmartLg_Logistics Delay Project_DSHB.jpg)
+*Includes 16-Parameter Performance Analysis to **REDUCE** Logistics Delay*
 
-*On April 15, 1912, during her maiden voyage, the widely considered
-“unsinkable” RMS Titanic sank after colliding with an iceberg*
+**Predictive Modeling and Hypothesis Testing using Real Estate  Sales Dataset.**
+![image](Real Estate Sales Performance Project_DSHB.jpg)
+*Includes Employee, Location, Product-Type etc. Performance Analysis to **IMPROVE** Sales*
+
+**Predictive Modeling and Hypothesis Testing using HR Employee Dataset.**
+![image](HR Attrition Project_DSHB.jpg)
+*Includes Gender, Age Range, Salary Range, Years of Service, Performance Rating, Job Satisfaction Rating etc. Performance Analysis to **REDUCE** Employee Attritiom*
