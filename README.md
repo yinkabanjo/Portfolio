@@ -16,9 +16,11 @@ Achieve exceptional business performance through a smarter supply chain. I help 
 
 **- ✅ Organisation Staff Training & Development.**
 I offer targeted training programs to develop crucial skills from beginner through advanced levels in:
+
 -* **Comprehensive Supply Chain Management**: Including planning, sourcing, manufacturing, logistics, warehousing, materials management & SCM technologies.*
 -* **Data Analysis & Visualization**: Turning data into actionable insights.*
 -* **Data-Driven Decision-Making**: Applying data effectively to drive business results.*
+
 
 ## MY PORTFOLIO
 
@@ -49,7 +51,7 @@ to help **IMPROVE** Procurement team performance.*
 
 **Predictive Modeling and Hypothesis Testing using HR Employee Dataset.**
 ![image](HR Attrition Project_DSHB.jpg)
-*Includes Gender, Age Range, Salary Range, Years of Service, Performance Rating, Job Satisfaction Rating etc. Performance Analysis to **REDUCE** Employee Attritiom*
+*Includes Gender, Age Range, Salary Range, Years of Service, Performance Rating, Job Satisfaction Rating etc. Performance Analysis to **REDUCE** Employee Attrition*
 
 
 **Predictive Modeling and Hypothesis Testing using Car Sales Dataset.**
