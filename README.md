@@ -58,6 +58,11 @@ to help **IMPROVE** Procurement team performance.*
 *Includes Employee, Location, Customer Gender, Age Range, Car Make, Car Model etc. Performance Analysis to **IMPROVE** company Sales*
 
 
+**Predictive Modeling and Hypothesis Testing using Public Procurement Dataset.**
+![image](Procurement Project_DSHB.jpg)
+*Includes Hospital, State, Supplier, Supplier Country, Equipment etc. Performance Analysis to **IMPROVE** spend visibility & buying practices etc.*
+
+
 ## CONTACT DETAILS
 *Feel free to connect so we can collaborate to deliver value!*
 <table>
