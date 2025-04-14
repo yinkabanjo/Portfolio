@@ -16,9 +16,9 @@ Achieve exceptional business performance through a smarter supply chain. I help 
 
 **- ✅ Organisation Staff Training & Development.**
 I offer targeted training programs to develop crucial skills from beginner through advanced levels in:
-*-Comprehensive Supply Chain Management**: Including planning, sourcing, manufacturing, logistics, warehousing, materials management & SCM technologies.*
-*-Data Analysis & Visualization**: Turning data into actionable insights.*
-*-Data-Driven Decision-Making**: Applying data effectively to drive business results.*
+* **Comprehensive Supply Chain Management**: Including planning, sourcing, manufacturing, logistics, warehousing, materials management & SCM technologies.*
+* **Data Analysis & Visualization**: Turning data into actionable insights.*
+* **Data-Driven Decision-Making**: Applying data effectively to drive business results.*
 
 
 ## MY PORTFOLIO
@@ -40,27 +40,27 @@ to help **IMPROVE** Procurement team performance.*
 
 **Predictive Modeling and Hypothesis Testing using Logistics Dataset.**
 ![image](SmartLg_Logistics Delay Project_DSHB.jpg)
-*Includes 16-Parameter Performance Analysis to **REDUCE** Logistics Delay by service provider*
+*Includes 16-Parameter correlation & Performance Analysis to **REDUCE** Logistics Delay by service provider*
 
 
 **Predictive Modeling and Hypothesis Testing using Real Estate Sales Dataset.**
 ![image](Real Estate Sales Performance Project_DSHB.jpg)
-*Includes Employee, Customer Gender, Location, Product-Type etc. Performance Analysis to **IMPROVE** company Sales*
+*Includes Employee, Customer Gender, Location, Product-Type etc. correlation & Performance Analysis to **IMPROVE** company Sales*
 
 
 **Predictive Modeling and Hypothesis Testing using HR Employee Dataset.**
 ![image](HR Attrition Project_DSHB.jpg)
-*Includes Gender, Age Range, Salary Range, Years of Service, Performance Rating, Job Satisfaction Rating etc. Performance Analysis to **REDUCE** Employee Attrition*
+*Includes Gender, Age Range, Salary Range, Years of Service, Performance Rating, Job Satisfaction Rating etc. correlation & Performance Analysis to **REDUCE** Employee Attrition*
 
 
 **Predictive Modeling and Hypothesis Testing using Car Sales Dataset.**
 ![image](CarSales Performance Project_DSHB.jpg)
-*Includes Employee, Location, Customer Gender, Age Range, Car Make, Car Model etc. Performance Analysis to **IMPROVE** company Sales*
+*Includes Employee, Location, Customer Gender, Age Range, Car Make, Car Model etc. correlation & Performance Analysis to **IMPROVE** company Sales*
 
 
 **Predictive Modeling and Hypothesis Testing using Public Procurement Dataset.**
 ![image](Procurement Project_DSHB.jpg)
-*Includes Hospital, State, Supplier, Supplier Country, Equipment etc. Performance Analysis to **IMPROVE** spend visibility & buying practices etc.*
+*Includes Hospital, State, Supplier, Supplier Country, Equipment etc. correlation & Performance Analysis to **IMPROVE** spend visibility & buying practices etc.*
 
 
 ## CONTACT DETAILS
