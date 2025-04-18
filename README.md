@@ -26,6 +26,7 @@ I offer targeted training programs to develop crucial skills from beginner throu
 *A glimpse of some of the projects I've been working on and authored material.*
 
 **PROCUREMENT MINI-LEARNING SERIES: Mastering Procurement KPIs.**
+[View on Amazon](https://amzn.eu/d/3QK9xw3)
 ![image](Mastering Procurement KPIs_eBook.jpg)
 
 *Includes 5 Most commonly used KPIs, 15 bonus KPIs, —their definitions, explanations, calculation components and importance. 
