@@ -36,7 +36,7 @@ to help **IMPROVE** Procurement team performance.*
 
 **PROCUREMENT MINI-LEARNING SERIES: Expediting Essentials.**
 [View on Amazon](https://www.amazon.com/dp/B0F7GGFD83)
-![image](Expediting Esentials.jpg)
+![image](Expediting Essentials.jpg)
 
 *Includes practical steps to significantly IMPROVE procurement delivery/reliability and avoid the varied implications of product & service delays by ensuring adherence to agreed-upon, and sometimes rapidly-evolving timelines. Goes further to offer guidance to non-procurement organisation team members when the expediting responsibility is delegated outside procurement*
 
