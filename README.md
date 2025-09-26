@@ -47,7 +47,6 @@ to help **IMPROVE** Procurement team performance.*
 [View on Copyright Commission Site](http://www.eregistration.copyright.gov.ng/search/application?id=uT6beg%2bgoD0%3d)
 
 ![image](P2_Model.jpg )
-
 *Above shows 1 of 7 part SPEAR® Model Framework*
 
 
