@@ -2,7 +2,7 @@
 Portfolio showcase of privately created analysis project dashboards, eBooks & sundry works without proprietary restrictions 
 
 ## ABOUT ME
-Hi! I'm Adeyinka Banjo, a business leader and digitisation/improvement expert. I help improve bottom lines & grow businesses sustainably using data, technology & innovation. 
+Hi! I'm Adeyinka Banjo, a business leader and digitisation/improvement expert. I help improve top & bottom lines & grow businesses sustainably using data, technology & innovation. 
 My industry practice spans energy (oil, gas, & power), manufacturing (FMCG), marine (& land) logistics, industrial printing and consulting. I am also an author and supply chain management (SCM) trainer across all core functions. 
 
 ## WHAT I DO
@@ -27,6 +27,7 @@ I offer targeted training programs to develop crucial skills from beginner throu
 
 **PROCUREMENT MINI-LEARNING SERIES: Mastering Procurement KPIs.**
 [View on Amazon](https://amzn.eu/d/3QK9xw3)
+
 ![image](Mastering Procurement KPIs_eBook.jpg)
 
 *Includes 5 Most commonly used KPIs, 15 bonus KPIs, —their definitions, explanations, calculation components and importance. 
@@ -36,6 +37,7 @@ to help **IMPROVE** Procurement team performance.*
 
 **PROCUREMENT MINI-LEARNING SERIES: Expediting Essentials.**
 [View on Amazon](https://www.amazon.com/dp/B0F7GGFD83)
+
 ![image](Expediting Essentials.jpg)
 
 *Includes practical steps to significantly **IMPROVE** procurement delivery/reliability and avoid the varied implications of product & service delays by ensuring adherence to agreed-upon, and sometimes rapidly-evolving timelines. Goes further to offer guidance to non-procurement organisation team members when the expediting responsibility is delegated outside procurement*
