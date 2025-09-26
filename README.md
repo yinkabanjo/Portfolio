@@ -43,6 +43,15 @@ to help **IMPROVE** Procurement team performance.*
 *Includes practical steps to significantly **IMPROVE** procurement delivery/reliability and avoid the varied implications of product & service delays by ensuring adherence to agreed-upon, and sometimes rapidly-evolving timelines. Goes further to offer guidance to non-procurement organisation team members when the expediting responsibility is delegated outside procurement*
 
 
+**SPEAR® Model: SUSTAINABILITY, PROJECT MANAGEMENT, ENVIRONMENT, ACCOUNTABILITY & RISK MANAGEMENT Model.**
+[View on Copyright Commission Site](http://www.eregistration.copyright.gov.ng/search/application?id=uT6beg%2bgoD0%3d)
+
+![image](P2_Model.jpg )
+![image](P1_About SPEAR.jpg)
+
+*Above shows 2 of 7 part SPEAR® Model Framework*
+
+
 **Predictive Modeling and Hypothesis Testing using Oil Production Dataset.**
 ![image](OilField Performance Project_DSHB.jpg)
 *Includes Location, Personnel & Production Performance Analysis to **IMPROVE** Production*
