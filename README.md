@@ -92,6 +92,11 @@ href="mailto:yinka.banjo@yahoo.co.uk">yinka.banjo@yahoo.co.uk</a></td>
 <tr>
 <td>􊷗􊷘􊷙􊷚􊷛􊷝􊷜</td>
 <td><a
+href="mailto:yinka.banjo@sprintright.tech">yinka.banjo@sprintright.tech</a></td>
+</tr>
+<tr>
+<td>􊷗􊷘􊷙􊷚􊷛􊷝􊷜</td>
+<td><a
 href="mailto:yinka.banjo@stratedelta.com">yinka.banjo@stratedelta.com</a></td>
 </tr>
 <tr>
